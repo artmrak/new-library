@@ -16,6 +16,4 @@ print(Fore.BLACK+Back.WHITE+Style.DIM+"This library is very easy to use!")
 я не особо понял, в чем разница этих стилей)
 -Метод init(autoreset=True): этот метод сбрасывает настройки цвета в конце каждого print, 
 чтобы последующий вывод не окрашивался по ошибке.
-
-
 '''
